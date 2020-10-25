@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{DTnQ:function(e,n,t){"use strict";t.r(n);var a={name:"HelperPage"},l=t("KHd+"),r=Object(l.a)(a,(function(){var e=this.$createElement,n=this._self._c||e;return n("Layout",[n("div",[n("h1",[this._v("Helper Page")])])])}),[],!1,null,null,null);n.default=r.exports}}]);
