@@ -1,14 +1,20 @@
-# Default starter for Gridsome
+# 崔锐 | Part 3 | 模块四
 
-This is the project you get when you run `gridsome create new-project`.
+这是一个 Gridsome 练习
 
-### 1. Install Gridsome CLI tool if you don't have
+代码运行server：（运行 dist 打包文件）
 
-`npm install --global @gridsome/cli`
+[http://ec2-54-193-231-43.us-west-1.compute.amazonaws.com:5000/](http://ec2-54-193-231-43.us-west-1.compute.amazonaws.com:5000/)
 
-### 2. Create a Gridsome project
+Gridsome 代码：
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+[https://github.com/cruilnsy/lago-blog-gridsome-site](https://github.com/cruilnsy/lago-blog-gridsome-site)
+
+Strapi 代码：
+
+[https://github.com/cruilnsy/blog-backend](https://github.com/cruilnsy/blog-backend)
+
+学习笔记：
+
+在 /study_notes/ 下
+
